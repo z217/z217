@@ -1,9 +1,7 @@
 - @z217
-- bachelor degree in BUPT
-- majoring in software engineering
-- here's my blog: [z217'sblog](https://z217blog.cn)
+- blog: [z217'sblog](https://z217blog.cn)
 - server software development engineer
-- language: C++/Java/Golang
+- language: C++/Golang
 - mailto: zihan.zhouchn@outlook.com
 
 <!---
